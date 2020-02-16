@@ -3,12 +3,12 @@
     {
       "id": 1580935764431,
       "text": "Rubí & Diego",
-      "done": true
+      "done": false
     },
     {
       "id": 1580935800435,
       "text": "La chinita mi princesita",
-      "done": false
+      "done": true
     },
     {
       "id": 1580935813524,
@@ -18,13 +18,12 @@
     {
       "id": 1580935833844,
       "text": "La preciosura de la Rubi mi niñita ",
-      "done": false
+      "done": true
     },
     {
       "id": 1580944973175,
-      "text": "Diseño de UI & UX",
+      "text": "Diseño de UI & UX edit",
       "done": true
     }
-  
   ]
 }

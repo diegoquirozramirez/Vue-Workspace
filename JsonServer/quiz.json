@@ -1,0 +1,62 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "quiz": "¿Cual es el nombre de tu padre?",
+      "answer": [
+        {
+          "id": "111",
+          "value" : "Oscar"
+        },
+        {
+          "id": "222",
+          "value" : "Frank"
+        },
+        {
+          "id": "333",
+          "value" : "Diego"
+        }
+      ],
+      "validated": "Oscar"
+    },
+    {
+      "id": 2,
+      "quiz": "¿Cual es el nombre de tu madre?",
+      "answer": [
+        {
+          "id": "444",
+          "value" : "Hilda"
+        },
+        {
+          "id": "555",
+          "value" : "Cinthya"
+        },
+        {
+          "id": "666",
+          "value" : "Rubí"
+        }
+      ],
+      "validated": "Hilda"
+    },
+    {
+      "id": 3,
+      "quiz": "¿A cual mascota salvarias?",
+      "answer": [
+        {
+          "id": "777",
+          "value" : "Negro"
+        },
+        {
+          "id": "888",
+          "value" : "Titan"
+        },
+        {
+          "id": "999",
+          "value" : "Manchas"
+        }
+      ],
+      "validated": "Manchas"
+    }
+  
+  ]
+}
