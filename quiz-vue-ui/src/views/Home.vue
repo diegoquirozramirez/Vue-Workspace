@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
+    <img alt="Vue logo" src="../assets/logo_acceso.svg" style="width:25%; margin-bottom:100px">
     <b-container class="container">
        <quiz-list msg="Quiz" v-bind:preguntas="geting"></quiz-list>
     </b-container>

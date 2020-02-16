@@ -9,11 +9,17 @@
          <h4>Finalizó la QUIZ</h4>
          <h5>Gracias por elegir Acceso</h5>
          <h6>Puntaje obtenido : {{puntaje}}</h6>
+         <div class="container">
+           <p>Respuesta correctas</p>
+           <ul>
+             <li class="alert alert-info">{{preguntas[0].validated}}</li>
+             <li class="alert alert-info">{{preguntas[1].validated}}</li>
+             <li class="alert alert-info">{{preguntas[2].validated}}</li>
+           </ul>
+         </div>
      </div>
    
       <quiz-item :pregunta="preguntas[index]" :quizStage="quizStage" @indexIncrement="incremIndex"></quiz-item>
-      
- 
    
   </div>
   
